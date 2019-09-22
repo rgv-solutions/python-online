@@ -1,5 +1,5 @@
 var examples = [{
-	name : "Hello, World",
+	name : "Hello, World !!!!",
 	code : '# Say hello\nprint "Hello, World"'
 },{
 	name : 'Strings',
