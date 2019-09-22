@@ -51,7 +51,7 @@ print x
 			// Grammar is not perfect, have to have it end with a line break
 			var output = piethon.parse(editor.getValue()+'\n')
 			if(output == true) {
-				jqconsole.Write('piethon\nSyntactically correct program: '+output+'\nRunning program:\n', 'jqconsole-output');
+				jqconsole.Write('python\nSyntactically correct program: '+output+'\nRunning program:\n', 'jqconsole-output');
 				eval(finalprogram);
 				jqconsole.Write('\n', 'jqconsole-output');
 			} 
