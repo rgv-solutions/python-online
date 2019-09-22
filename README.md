@@ -8,7 +8,7 @@ Bastardized, poorly written, barely functional with all the useful features of t
 Parser and lexer generated with [Jison](http://zaach.github.io/jison/), uses [jq-console](https://github.com/replit/jq-console) and the [Ace](http://ace.c9.io/#nav=about) editor for the demo. Many thanks to [Dr. Brian Malloy](http://people.cs.clemson.edu/~malloy/) for his lessons in grammars and life.
 
 ### Demo
-[Check it out online.](https://github.com/rgv-solutions/python-online/)
+[Check it out online.](https://github.com/rgv-solutions/python-online/index.html)
 
 #### Todo
 * Support expressions as parameters
